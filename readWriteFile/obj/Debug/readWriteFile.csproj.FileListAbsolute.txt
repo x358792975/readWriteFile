@@ -1,0 +1,6 @@
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\bin\Debug\readWriteFile.exe.config
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\bin\Debug\readWriteFile.exe
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\bin\Debug\readWriteFile.pdb
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\obj\Debug\readWriteFile.csprojResolveAssemblyReference.cache
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\obj\Debug\readWriteFile.exe
+c:\users\seancui\documents\visual studio 2017\Projects\readWriteFile\readWriteFile\obj\Debug\readWriteFile.pdb
